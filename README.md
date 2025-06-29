@@ -175,3 +175,16 @@ I used AI tools like ChatGPT and Cursor IDE to create this full stack applicatio
 #### Conclusion
 
 AI tools were incredibly helpful in speeding up development, but they also required me to manually fix issues that arose during the process. Despite some setbacks, the project was completed successfully within the given deadline.
+
+## Test login credentials
+
+email/password - role
+
+```bash
+jas@gmailcom/jaswanth123 - manager
+venky@gmail.com/venky123 - engineer
+bala@gmail.com/bala1234 - engineer
+gopi@gmail.com/gopi1234 - engineer
+john@gmail.com/john1234 - engineer
+```
+
